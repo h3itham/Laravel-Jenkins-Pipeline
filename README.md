@@ -2,7 +2,7 @@
 
 <img src="./img.png" style="zoom: 80%;" />
 
-This repository provides a Jenkins pipeline for deploying Laravel (PHP | Apache | Mysql) Applications. The pipeline automates the build, test, and deployment processes, using Docker, Docker Compose, Ansible, and MySQL as the database engine. It also includes a container for phpMyAdmin to manipulate data. The infrastructure required to host the Application can be provisioned using Terraform, an Infrastructure as Code (IAC) tool. Terraform allows you to define and manage your infrastructure resources in a declarative manner.
+This repository provides a Jenkins pipeline for deploying Laravel (PHP | Apache | Mysql) Applications. The pipeline automates the build, test, and deployment processes, using Docker, Docker Compose, Ansible, and MySQL as the database engine. It also includes a container for phpMyAdmin to manipulate data. The infrastructure required to host the Application can be provisioned using Terraform an Infrastructure as Code (IAC) tool. Terraform allows you to define and manage your infrastructure resources in a declarative manner.
 
 ## Technology Used
 
