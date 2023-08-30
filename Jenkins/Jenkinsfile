@@ -13,7 +13,7 @@ pipeline {
         stage('Build & push Dockerfile') {
             steps {
                 sh """
-                cd Larvel-Jenkins-Pipeline/laravel-app
+                cd laravel-app
                 ansible-playbook playbook.yml
                 """
             }
