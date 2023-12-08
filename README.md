@@ -40,8 +40,8 @@ To deploy the Laravel application with the Jenkins pipeline, follow these steps:
    # OR
    ssh -i keypair.pem ec2-user@<Public IPv4 || AWS-DNS>
    vim install.sh
-   chmod +x install.sh
-   ./install.sh
+   chmod +x Tools-Installation-Script.sh
+   ./Tools-Installation-Script.sh
    ```
 
 4. make sure that all tools in script has been installed successfully 
