@@ -51,7 +51,6 @@ To deploy the Laravel application with the Jenkins pipeline, follow these steps:
    ansible --version
    docker-compose --version
    ```
-
 5. Create Jenkins job (Pipline)
 
    1. http://<ec2-Public IPv4 DNS>:8080
