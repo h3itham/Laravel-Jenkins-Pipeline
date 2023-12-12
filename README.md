@@ -17,9 +17,7 @@ The deployment pipeline for Laravel applications utilizes the following technolo
 - **phpMyAdmin**: A web-based tool for managing MySQL databases.
 
 ## Usage
-
-**`Note`** that you should change Images names in (docker-compose.yml, docker-dcompose.yml) 
-
+ 
 To deploy the Laravel application with the Jenkins pipeline, follow these steps:
 
 1. Push Changes to your project repository
