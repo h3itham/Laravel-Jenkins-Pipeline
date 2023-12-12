@@ -53,7 +53,7 @@ To deploy the Laravel application with the Jenkins pipeline, follow these steps:
    ```
 5. Create Jenkins job (Pipline)
 
-   1. http://<ec2-Public IPv4 DNS>:8080
+   1. `http://<ec2-Public IPv4 DNS>:8080`
    2. Add github (userName, pass) dockerub (userName, AccessToken)
    3. Create PipleLine and add github repo link and Jenkins file path 
    4. build 
